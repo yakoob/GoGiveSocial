@@ -1,0 +1,7 @@
+<p>Most fundraising initiatives suffer from a common failing: they do not give the donor compelling reasons to become personally involved. The Initiative goes something like this: "We are trying to raise $6500 to provide clean water to the Sengalese village of Bai Twadi. Will you help us?"</p>
+<p>Such an Initiative raises more questions than it offers assurances: what, exactly, will the money be used for? Why $6500, exactly? What will it buy? What impact will it have on the village? And how big is the village?</p>
+<p>With no ability for the would-be donor to get answers, all too many will simply pass.</p>
+<p>The solution? Provide real specifics, showing exactly where the $6500 will go -- and what impact it will have.</p>
+<p>How? Use pictures of the village. Show exactly where the new well will be placed. Then detail each of the assets needed to accomplish this -- each with the amount needed for that asset. (We call these tracked cost assets.)</p>
+<p>As the initiative continues, show the impact of the donations: "So far, your generous efforts will allow us to drill the 90 foot hole needed to ensure safe, clean drinking water."</p>
+<p><b>Go<span style="font-weight:bolder;color:#33cc00;">Green</span>Social</b> features - present progress charts, with the cost of each asset provided for by donations checked off. Donors can decide to make matching funds available. We provide the tools; you provide the passion. Together, we can make a difference.</p>			

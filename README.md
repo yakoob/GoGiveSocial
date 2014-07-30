@@ -1,7 +1,7 @@
 GGS
 ===
 
-Multi-Branded - Non-For-Profit - Initiative Network
+Multi-Branded - Non-For-Profit - Initiative Network: developed in ColdFusion
 
 A platform to connect your Initiatives to social media while also acting as a CMS. You create Initiatives, outline the assets required to reach your goals, collect payments and have connectivity from your back office systems for balance and budget.
 

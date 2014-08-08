@@ -24,7 +24,7 @@ component{
 	public Maxmind function init(){
 		super.init();
 		geoIPinit();		
-		variables.maxmindLicense = 'QtQe3JcrqIWV';
+		variables.maxmindLicense = '';
 		return this;
 	}
 	

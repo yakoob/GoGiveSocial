@@ -6,10 +6,11 @@
 * @accessors true
 */
 component{
+	
 	/**
-    * @type string
-    */
-    property maxmindLicense;
+    	* @type string
+    	*/
+    	property maxmindLicense;
 	
 	/**
 	* @hint I am a handle on maxmind services
@@ -18,9 +19,9 @@ component{
 	property geoIP;
 	
 	/**
-    * @hint I am a singleton result of maxmind attributes.  "eg: jar & datafiles..."
-    * @output true
-    */
+    	* @hint I am a singleton result of maxmind attributes.  "eg: jar & datafiles..."
+    	* @output true
+    	*/
 	public Maxmind function init(){
 		super.init();
 		geoIPinit();		
@@ -28,7 +29,7 @@ component{
 		return this;
 	}
 	
-    /**
+    	/**
 	* @output true
 	* @hint I am going to initialize a structure of GeoIP Data file results.
 	*/
@@ -50,10 +51,9 @@ component{
 	}
 	
 	/**
-    * @hint 
-    * @output true
-    */
-    public struct function minFraud(
+    	* @output true
+    	*/
+    	public struct function minFraud(
 		struct argStruct,
 		string ipString="#CGI.REMOTE_ADDR#",
 		string accountId=0,

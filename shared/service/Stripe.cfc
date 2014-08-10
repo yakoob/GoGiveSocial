@@ -33,7 +33,7 @@ component {
 	public Stripe function init(){
 		super.init();					 	
 		this.setKey("Basic #ToBase64("#request.stripe.api.testKey#")#"); // testing api key
-		this.setUrl("https://api.stripe.com/v1/");
+		this.setUrl("https://api.stripe.com/v2/");
 		return this;	
 	}
 	
